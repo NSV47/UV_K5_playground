@@ -1,0 +1,26 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/k5_uv_system/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/lcd/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/radio/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/keyboard/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/libs/views/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/orginal_fw/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/rssi_printer/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/rssi_sbar/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/most_useless_mod/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/pong/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/spectrum/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/spectrum_fagci/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/t9_texting/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/messenger/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/rssi_sbar_hot/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/am_tx/cmake_install.cmake",
+		"C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/Single_Tone_Test_1200_Hz/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
