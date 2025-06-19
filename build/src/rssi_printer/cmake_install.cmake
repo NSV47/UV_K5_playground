@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/src/rssi_printer
+# Install script for directory: C:/Users/nsv47/Documents/work/190625/UV_K5_playground/src/rssi_printer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/s.novikov/Documents/work/190625/UV_K5_playground/build/src/rssi_printer/install_local_manifest.txt"
+  file(WRITE "C:/Users/nsv47/Documents/work/190625/UV_K5_playground/build/src/rssi_printer/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
