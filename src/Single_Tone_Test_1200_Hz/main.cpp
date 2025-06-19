@@ -4,11 +4,14 @@
 // #include "uv_k5_display.hpp"
 // #include "rssi_sbar.hpp"
 // #include <string.h>
+#include "Single_Tone_Test_1200_Hz.hpp"
+
+CSingle_Tone_Test_1200_Hz Single_Tone_Test_1200_Hz;
 
 int main()
 {
-    
-    return 0;
+   IRQ_RESET();
+   return 0;
 }
 
 extern "C" void Reset_Handler()
@@ -30,6 +33,7 @@ extern "C" void SysTick_Handler()
    if((!(u32StupidCounter++ % 2) && u32StupidCounter > 200))
    {
     //   Pong.Handle();
+      Single_Tone_Test_1200_Hz.Handle();
    }
-    IRQ_SYSTICK();
+   IRQ_SYSTICK();
 }

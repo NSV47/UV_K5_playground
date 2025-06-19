@@ -5,7 +5,7 @@ libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
 libs/k5_uv_system/libuv_k5_system.a(vtable.s.obj)
                               (VectorTable)
 libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
-                              libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj) (IntDivide)
+                              src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin) (FlushFramebufferToScreen)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
@@ -31,7 +31,6 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
  .ARM.attributes
                 0x00000000       0x1b c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
- .text.startup  0x00000000        0x4 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
  .text          0x00000000        0x0 src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
  .data          0x00000000        0x0 src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
  .bss           0x00000000        0x0 src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
@@ -82,10 +81,6 @@ Discarded input sections
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
- .text.memset   0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
- .ARM.attributes
-                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
@@ -111,7 +106,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
 LOAD src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj
-LOAD C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+LOAD C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
 LOAD src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/hardware/hardware.cpp.obj
 LOAD src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
 LOAD src/orginal_fw/org_vectors.o
@@ -154,94 +149,103 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/
                 0x000000c0                _binary_org_fw_rest_bin_start
                 0x0000e520                _binary_org_fw_rest_bin_end
 
-.text           0x0000e520      0x11c
+.text           0x0000e520      0x2fc
                 0x0000e520                . = ALIGN (0x4)
  *(.text)
  .text          0x0000e520       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .text          0x0000e568       0x34 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
-                0x0000e568                Reset_Handler
-                0x0000e570                SysTick_Handler
+ .text          0x0000e568      0x17c C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                0x0000e5d0                Reset_Handler
+                0x0000e5d8                SysTick_Handler
  *(.text*)
+ .text.startup  0x0000e6e4       0x48 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                0x0000e6e4                main
  .text._ZN6System15CopyDataSectionEv
-                0x0000e59c       0x2c libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
-                0x0000e59c                System::CopyDataSection()
+                0x0000e72c       0x2c libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
+                0x0000e72c                System::CopyDataSection()
  .text.__libc_init_array
-                0x0000e5c8       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
-                0x0000e5c8                __libc_init_array
- .text.memcpy   0x0000e610       0x12 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
-                0x0000e610                memcpy
+                0x0000e758       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                0x0000e758                __libc_init_array
+ .text.memcpy   0x0000e7a0       0x12 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000e7a0                memcpy
+ .text.memset   0x0000e7b2       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                0x0000e7b2                memset
  *(.rodata)
+ *fill*         0x0000e7c2        0x2 
+ .rodata        0x0000e7c4       0x30 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
  *(.rodata*)
+ .rodata.str1.1
+                0x0000e7f4        0xe C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
  *(.init)
- *fill*         0x0000e622        0x2 
- .init          0x0000e624        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x0000e624                _init
- .init          0x0000e628        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *fill*         0x0000e802        0x2 
+ .init          0x0000e804        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000e804                _init
+ .init          0x0000e808        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
  *(.fini)
- .fini          0x0000e630        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x0000e630                _fini
- .fini          0x0000e634        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
-                0x0000e63c                . = ALIGN (0x4)
+ .fini          0x0000e810        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000e810                _fini
+ .fini          0x0000e814        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x0000e81c                . = ALIGN (0x4)
 
-.glue_7         0x0000e63c        0x0
- .glue_7        0x0000e63c        0x0 linker stubs
+.glue_7         0x0000e81c        0x0
+ .glue_7        0x0000e81c        0x0 linker stubs
 
-.glue_7t        0x0000e63c        0x0
- .glue_7t       0x0000e63c        0x0 linker stubs
+.glue_7t        0x0000e81c        0x0
+ .glue_7t       0x0000e81c        0x0 linker stubs
 
-.vfp11_veneer   0x0000e63c        0x0
- .vfp11_veneer  0x0000e63c        0x0 linker stubs
+.vfp11_veneer   0x0000e81c        0x0
+ .vfp11_veneer  0x0000e81c        0x0 linker stubs
 
-.v4_bx          0x0000e63c        0x0
- .v4_bx         0x0000e63c        0x0 linker stubs
+.v4_bx          0x0000e81c        0x0
+ .v4_bx         0x0000e81c        0x0 linker stubs
 
-.iplt           0x0000e63c        0x0
- .iplt          0x0000e63c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x0000e81c        0x0
+ .iplt          0x0000e81c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rel.dyn        0x0000e63c        0x0
- .rel.iplt      0x0000e63c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+.rel.dyn        0x0000e81c        0x0
+ .rel.iplt      0x0000e81c        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.preinit_array  0x0000e63c        0x0
-                0x0000e63c                __preinit_array_start = .
+.preinit_array  0x0000e81c        0x0
+                0x0000e81c                __preinit_array_start = .
  *(.preinit_array*)
-                0x0000e63c                __preinit_array_end = .
+                0x0000e81c                __preinit_array_end = .
 
-.init_array     0x0000e63c        0x4
-                0x0000e63c                __init_array_start = .
+.init_array     0x0000e81c        0x8
+                0x0000e81c                __init_array_start = .
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0000e63c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x0000e640                __init_array_end = .
+ .init_array    0x0000e81c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .init_array    0x0000e820        0x4 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                0x0000e824                __init_array_end = .
 
-.fini_array     0x0000e640        0x4
+.fini_array     0x0000e824        0x4
                 [!provide]                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000e640        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .fini_array    0x0000e824        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
                 [!provide]                PROVIDE (__fini_array_end = .)
-                0x0000e644                . = ALIGN (0x4)
-                0x0000e644                _flash_data_start = .
-                0x0000e644                _sidata = LOADADDR (.data)
+                0x0000e828                . = ALIGN (0x4)
+                0x0000e828                _flash_data_start = .
+                0x0000e828                _sidata = LOADADDR (.data)
 
-.data           0x2000138c        0x4 load address 0x0000e644
+.data           0x2000138c        0x4 load address 0x0000e828
                 0x2000138c                . = ALIGN (0x4)
                 0x2000138c                _sdata = .
  *(.data)
- .data          0x2000138c        0x4 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+ .data          0x2000138c        0x4 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
  *(.data*)
  *(.ramsection)
                 0x20001390                _edata = .
 
-.igot.plt       0x20001390        0x0 load address 0x0000e648
+.igot.plt       0x20001390        0x0 load address 0x0000e82c
  .igot.plt      0x20001390        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.bss            0x20001390       0x1d load address 0x0000e648
+.bss            0x20001390       0x40 load address 0x0000e82c
                 0x20001390                . = ALIGN (0x4)
                 0x20001390                _sbss = .
  *(.bss)
  .bss           0x20001390       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
- .bss           0x200013ac        0x1 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
-                0x200013ad                _ebss = .
+ .bss           0x200013ac       0x24 C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                0x200013d0                _ebss = .
 OUTPUT(src\Single_Tone_Test_1200_Hz\Single_Tone_Test_1200_Hz elf32-littlearm)
 LOAD linker stubs
 
@@ -252,7 +256,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x0000001e       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
  .ARM.attributes
-                0x0000004a       0x2a C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                0x0000004a       0x2a C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
  .ARM.attributes
                 0x00000074       0x2c libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
  .ARM.attributes
@@ -262,16 +266,19 @@ LOAD linker stubs
  .ARM.attributes
                 0x000000ed       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x00000119       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000119       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000145       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
 
 .comment        0x00000000       0x49
- .comment       0x00000000       0x4a C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+ .comment       0x00000000       0x4a C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
  .comment       0x00000000       0x49 libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
                                  0x4a (size before relaxing)
 
-.debug_frame    0x00000000       0x54
+.debug_frame    0x00000000       0x74
  .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
  .debug_frame   0x0000002c       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000054       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
 
 Cross Reference Table
 
@@ -288,6 +295,11 @@ BK4819SetGpio                                     libs/k5_uv_system/libuv_k5_sys
 BK4819SetPaGain                                   libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 BK4819Write                                       libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 BK4819WriteFrequency                              libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+CDisplay<TUV_K5Display const>::Print(char const*) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+CDisplay<TUV_K5Display const>::PrintCharacter(char) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+CSingle_Tone_Test_1200_Hz::CSingle_Tone_Test_1200_Hz() src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+CSingle_Tone_Test_1200_Hz::CSingle_Tone_Test_1200_Hz() src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+CSingle_Tone_Test_1200_Hz::Handle()               src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 ConfigureTrimValuesFromNVR                        libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 DelayMs                                           libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 DelayUs                                           libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
@@ -311,6 +323,8 @@ FLASH_Start                                       libs/k5_uv_system/libuv_k5_sys
 FLASH_Unlock                                      libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 FLASH_WakeFromDeepSleep                           libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 FlushFramebufferToScreen                          libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                                                  src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 FlushStatusbarBufferToScreen                      libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 FormatString                                      libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 Hardware::TFlashLight::BlinkSync(unsigned char)   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/hardware/hardware.cpp.obj (symbol from plugin)
@@ -320,30 +334,45 @@ Hardware::TFlashLight::Toggle()                   src/Single_Tone_Test_1200_Hz/C
 Hardware::TPower::EnableDbg()                     src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/hardware/hardware.cpp.obj (symbol from plugin)
 Hardware::TSystem::Delay(unsigned int)            src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/hardware/hardware.cpp.obj (symbol from plugin)
 IRQ_RESET                                         libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
-                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 IRQ_SYSTICK                                       libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
-                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 IntDivide                                         libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
                                                   libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
 PollKeyboard                                      libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                                                  src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 PrintFrequency                                    libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 PrintSmallDigits                                  libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 PrintTextOnScreen                                 libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
-Reset_Handler                                     C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+Reset_Handler                                     C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
                                                   libs/k5_uv_system/libuv_k5_system.a(vtable.s.obj)
+Single_Tone_Test_1200_Hz                          src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 SomeAmStuff                                       libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 Strlen                                            libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
-SysTick_Handler                                   C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                                                  src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+SysTick_Handler                                   C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
                                                   libs/k5_uv_system/libuv_k5_system.a(vtable.s.obj)
 System::CopyDataSection()                         libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
-                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 SystemReset                                       libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+TUV_K5Display::ClearAll()                         src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5Display::GetCoursorData(unsigned short) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5Display::GetPixel(unsigned char, unsigned char) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5Display::SetPixel(unsigned char, unsigned char) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5Small::GetRaw(char) const                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5Small::GetSizeY(char) const                 src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5SmallNumbers::GetPixel(char, unsigned char, unsigned char) const src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5SmallNumbers::GetRaw(char) const            src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5SmallNumbers::GetSizeX(char) const          src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+TUV_K5SmallNumbers::GetSizeY(char) const          src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 UpdateStatusBar                                   libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 VectorTable                                       libs/k5_uv_system/libuv_k5_system.a(vtable.s.obj)
 WriteSerialData                                   libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
@@ -356,7 +385,7 @@ __init_array_end                                  c:/progra~2/gnuarm~1/102021~1.
 __init_array_start                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
 __libc_fini_array                                 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 __libc_init_array                                 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
-                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
                                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 __preinit_array_end                               c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
@@ -395,18 +424,26 @@ atexit                                            c:/progra~2/gnuarm~1/102021~1.
 exit                                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
                                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 gDisplayBuffer                                    libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                                                  src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 gFlashLightStatus                                 libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 gSmallDigs                                        libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
+                                                  src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
 gSmallLeters                                      libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 gStatusBarData                                    libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 gVoltage                                          libs/k5_uv_system/libuv_k5_system.a(api.s.obj)
 hardware_init_hook                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
-main                                              C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.HOE1Wc.ltrans0.ltrans.o
+main                                              C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
                                                   src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/dp32g030.s.obj
                                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 memcpy                                            c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   libs/k5_uv_system/libuv_k5_system.a(system.cpp.obj)
 memset                                            c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                                                  C:\Users\S5780~1.NOV\AppData\Local\Temp\Single_Tone_Test_1200_Hz.BgeP6l.ltrans0.ltrans.o
                                                   c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
 software_init_hook                                c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+vtable for TUV_K5Display                          src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
+vtable for TUV_K5SmallNumbers                     src/Single_Tone_Test_1200_Hz/CMakeFiles/Single_Tone_Test_1200_Hz.dir/main.cpp.obj (symbol from plugin)
