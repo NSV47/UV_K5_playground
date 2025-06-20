@@ -31,18 +31,18 @@ public:
     //   C8RssiString[1] = '0' + (u32Key / 10) % 10;
     //   C8RssiString[2] = '0' + u32Key % 10;
 
-    C8RssiString[0]  = 'H';
-    C8RssiString[1]  = 'e';
-    C8RssiString[2]  = 'l';
-    C8RssiString[3]  = 'l';
-    C8RssiString[4]  = '0';
-    C8RssiString[5]  = ' ';
-    C8RssiString[6]  = 'w';
-    C8RssiString[7]  = 'o';
-    C8RssiString[8]  = 'r';
-    C8RssiString[9]  = 'l';
-    C8RssiString[10] = 'd';
-    C8RssiString[11] = '!';
+    C8RssiString[0]  = '1';
+    C8RssiString[1]  = '2';
+    C8RssiString[2]  = '3';
+    C8RssiString[3]  = '4';
+    C8RssiString[4]  = '5';
+    C8RssiString[5]  = '6';
+    C8RssiString[6]  = '7';
+    C8RssiString[7]  = '8';
+    C8RssiString[8]  = '9';
+    C8RssiString[9]  = '0';
+    C8RssiString[10] = '1';
+    C8RssiString[11] = '2';
 
     //   Game.handle(u32Key);
     //   auto const BallPosition = Game.getBallPosition();
