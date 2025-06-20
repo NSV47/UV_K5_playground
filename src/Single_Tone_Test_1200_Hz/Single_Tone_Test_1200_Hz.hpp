@@ -52,6 +52,7 @@ public:
     //   Display.DrawRectangle(PlatformPosition.x, PlatformPosition.y, 6, 20, true);
       Display.SetCoursor(0, 0);
       Display.SetFont(&FontSmallNr);
+    //   WriteSerialData((unsigned char *)"RX packet, hex: ", 17);
       Display.Print(C8RssiString);
 
     #if 0
